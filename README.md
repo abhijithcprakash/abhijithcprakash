@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img width="1000" height="200" src="banner.svg" alt="my banner">
+  <img width="1000" height="200" src="/gifs/awesome banner.svg" alt="my banner">
 </div>
 
 <h1 align="center">Hi, I'm Abhijith C Prakash</h1>
