@@ -21,7 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcprakash&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcprakash" /> </p>
 
 
-<img width="350" height="350" align="right" src="/gifs/cowboy coding.gif" alt="my banner">
+<img width="250" height="250" align="right" src="/gifs/cowboy coding.gif" alt="my banner">
 
 
 <div style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; border: 1px solid #ddd;">
