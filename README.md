@@ -130,7 +130,8 @@
 <br>
 <br>
 
-<img width="350" height="350" align="right" src="/gifs/code cat walk" alt="my banner">
+<img width="350" height="200" align="right" src="/gifs/codesleep.gif" alt="my banner">
+
 
 
 <div>
@@ -138,11 +139,20 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithcprakash&show_icons=true&locale=en&layout=compact" alt="abhijithcprakash" /></p>
 </div>
 
-<div> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-<img width="100" height="150" align="right" src="/gifs/sleepless fox coding.gif" alt="my banner">
+<div>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    </picture>
+    <img
+      width="100"
+      height="150"
+      align="right"
+      src="/gifs/sleepless fox coding.gif"
+      alt="my banner"
+    />
+  </div>
 </div>
+
