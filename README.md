@@ -2,8 +2,21 @@
   <img width="1000" height="200" src="/gifs/awesome banner.svg" alt="my banner">
 </div>
 
-<h1 align="center">Hi, I'm Abhijith C Prakash</h1>
-<h3 align="center">Passionate about Deep Learning, Computer Vision & building AI-powered applications</h3>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#FF6F61;">Abhijith C Prakash</span>
+</h1>
+
+<h3 align="center">
+   Passionate about <span style="color:#FFA500;">Deep Learning</span>, 
+  <span style="color:#00BFFF;">Computer Vision</span> & 
+  <span style="color:#7CFC00;">building AI-powered applications</span>
+</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&width=700&lines=Deep+Learning+Engineer+%7C+AI+Developer;Open+Source+Contributor+%7C+Tech+Educator;Python+%7C+Machine+Learning+%7C+Computer+Vision;NLP+%7C+Edge+AI+%7C+Researcher" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcprakash&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcprakash" /> </p>
 
