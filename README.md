@@ -1,3 +1,10 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”banner.svg" alt=”my banner”>
+
+</p>
+
+
 <h1 align="center">Hi, I'm Abhijith C Prakash</h1>
 <h3 align="center">Passionate about Deep Learning, Computer Vision & building AI-powered applications</h3>
 
