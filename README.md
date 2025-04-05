@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcprakash&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcprakash" /> </p>
 
 <div style="text-align: right;">
-  <img width="200" height="200" src="machocoding.gif" alt="my banner">
+  <img width="200" height="200" src="/gifs/sleepless fox coding.gif" alt="my banner">
 </div>
 
 
