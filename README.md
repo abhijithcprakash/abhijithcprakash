@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”banner.svg" alt=”my banner”>
+<img width=”1000" height=”200" src=”banner.svg" alt=”my banner”>
 
 </p>
 
@@ -39,7 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithcprakash&show_icons=true&locale=en&layout=compact" alt="abhijithcprakash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithcprakash&show_icons=true&locale=en" alt="abhijithcprakash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithcprakash&" alt="abhijithcprakash" /></p>
 
