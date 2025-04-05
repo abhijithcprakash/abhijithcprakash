@@ -1,8 +1,7 @@
-<p align=”center”>
+<div style="text-align: center;">
+  <img width="1000" height="200" src="banner.svg" alt="my banner">
+</div>
 
-<img width=”1000" height=”200" src=”banner.svg" alt=”my banner”>
-
-</p>
 
 
 <h1 align="center">Hi, I'm Abhijith C Prakash</h1>
