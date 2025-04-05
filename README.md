@@ -2,12 +2,15 @@
   <img width="1000" height="200" src="banner.svg" alt="my banner">
 </div>
 
-
-
 <h1 align="center">Hi, I'm Abhijith C Prakash</h1>
 <h3 align="center">Passionate about Deep Learning, Computer Vision & building AI-powered applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcprakash&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcprakash" /> </p>
+
+<div style="text-align: right;">
+  <img width="200" height="200" src="machocoding.gif" alt="my banner">
+</div>
+
 
 - 🔭 I’m currently working on **Building AI-powered applications**
 
