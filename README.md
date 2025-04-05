@@ -147,7 +147,7 @@
 <br>
 <br>
 
-<img width="350" height="200" align="right" src="/gifs/codesleep.gif" alt="my banner">
+<img width="350" height="350" align="right" src="/gifs/codesleep.gif" alt="my banner">
 
 
 
