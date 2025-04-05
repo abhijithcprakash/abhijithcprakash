@@ -41,6 +41,8 @@
 </p>
 
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -100,9 +102,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" alt="postman" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
