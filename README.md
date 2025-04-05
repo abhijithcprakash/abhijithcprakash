@@ -163,13 +163,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
       <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
     </picture>
-    <img
-      width="100"
-      height="150"
-      align="right"
-      src="/gifs/sleepless fox coding.gif"
-      alt="my banner"
-    />
   </div>
 </div>
 
