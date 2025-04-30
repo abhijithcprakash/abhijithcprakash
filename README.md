@@ -147,9 +147,6 @@
 <br>
 <br>
 
-<img width="350" height="350" align="right" src="/gifs/codesleep.gif" alt="my banner">
-
-
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithcprakash&show_icons=true&locale=en&layout=compact" alt="abhijithcprakash" /></p>
@@ -158,6 +155,8 @@
   </p>
 
 </div>
+
+<img width="350" height="350" align="right" src="https://raw.githubusercontent.com/abhijithcprakash/abhijithcprakash/main/gifs/codesleep.gif" alt="my banner" />
 
 
 
